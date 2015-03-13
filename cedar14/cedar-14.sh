@@ -37,6 +37,7 @@ apt-get install -y --force-yes \
     libpq-dev \
     libpq5 \
     libreadline6-dev \
+    libsqlite3-dev \
     libssl-dev \
     libxml2-dev \
     libxslt-dev \
